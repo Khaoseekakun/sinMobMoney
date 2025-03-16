@@ -1,0 +1,10 @@
+name: sinMobMoney
+version: '1.0.0'
+main: org.sinMobMoney.SinMobMoney
+api-version: '1.21'
+commands:
+  reload:
+    description: Reload config plugin
+    usage: /reload
+    permission: SinMobMoney.reload
+    permission-message: You do not have permission

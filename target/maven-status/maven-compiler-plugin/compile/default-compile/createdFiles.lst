@@ -1,0 +1,4 @@
+org\sinMobMoney\events\killMob.class
+org\sinMobMoney\commands\main.class
+org\sinMobMoney\SinMobMoney.class
+org\sinMobMoney\untils\Color.class
